@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiLatinRedo", "MauiLatinRedo\MauiLatinRedo.csproj", "{A39C02A4-0CBF-4A89-9630-69F4E03535A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PigLatinClassLibrary1", "..\PigLatinClassLibrary1\PigLatinClassLibrary1.csproj", "{C99E5747-24B1-407E-954B-927B49A07682}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PigLatinWebApp", "..\PigLatinWebApp\PigLatinWebApp.csproj", "{5168385A-68EE-45C8-8B62-5786E7A2BAE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A39C02A4-0CBF-4A89-9630-69F4E03535A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39C02A4-0CBF-4A89-9630-69F4E03535A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39C02A4-0CBF-4A89-9630-69F4E03535A1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A39C02A4-0CBF-4A89-9630-69F4E03535A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39C02A4-0CBF-4A89-9630-69F4E03535A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A39C02A4-0CBF-4A89-9630-69F4E03535A1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C99E5747-24B1-407E-954B-927B49A07682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99E5747-24B1-407E-954B-927B49A07682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99E5747-24B1-407E-954B-927B49A07682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99E5747-24B1-407E-954B-927B49A07682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5168385A-68EE-45C8-8B62-5786E7A2BAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5168385A-68EE-45C8-8B62-5786E7A2BAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5168385A-68EE-45C8-8B62-5786E7A2BAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5168385A-68EE-45C8-8B62-5786E7A2BAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15217497-CE71-454A-B7D3-43707E6D5773}
+	EndGlobalSection
+EndGlobal
